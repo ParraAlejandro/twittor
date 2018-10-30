@@ -6,7 +6,7 @@ const CACHE_DYNAMIC = 'cache_dinamic_v1';
 const CACHE_INMUTABLE = 'cache_inmutable_v1';
 
 const APP_SHELL = [
-    '/',
+    //'/', solo  para localhost
     '/index.html',
     '/css/style.css',
     '/img/avatars/hulk.jpg',
