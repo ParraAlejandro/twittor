@@ -1,12 +1,12 @@
 {
     "lang": "es",
-    "name": "Twittor",
-    "scope": "/",
+    "name": "Twittor uan app para heroes",
     "start_url": "index.html",
     "short_name": "Twittor",
-    "background_color": "#2196F3",
+    "background_color": "#3498db",
     "display": "standalone",
-    "theme_color": "#2196F3",
+    "orientation": "portrait",
+    "theme_color": "#3498db",
     "icons": [{
             "src": "img/icons/icon-72x72.png",
             "type": "image/png",
